@@ -61,17 +61,18 @@ SOCIAL
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <img align="right"  height="130" width="160" src="https://www.publicitarioscriativos.com/wp-content/uploads/2019/03/deekay-vie-agence-designer-1-3.gif"/>
+  
 </div>
   
   ##  
   
-CONTACT
+CONTACTS
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
+  <img align="right"  height="130" width="160" src="https://www.publicitarioscriativos.com/wp-content/uploads/2019/03/deekay-vie-agence-designer-1-3.gif"/>
 </div>
   
   ![Snake animation](https://github.com/Dunna14/Dunna14/blob/output/github-contribution-grid-snake.svg)
