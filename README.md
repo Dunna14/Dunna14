@@ -1,4 +1,4 @@
-### Hi there, I'am Dunna14 👋
+### Hi there, I'm Dunna14 👋
 
 <!-- windows + "." para abrir os emotes  -->
 <div>
@@ -7,8 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunna14&layout=compact&langs_count=16&theme=dracula">
 </div>
 
-LANGUAGES AND TOOLS
+
 <div>
+  LANGUAGES AND TOOLS <br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
