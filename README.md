@@ -3,8 +3,8 @@
 <!-- windows + "." para abrir os emotes  -->
 <div>
   <a href="https://github.com/Dunna14"></a>  <!-- OU  <a href="https://beacons.ai/Dunna14"> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dunna14&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunna14&layout=compact&langs_count=16&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dunna14&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunna14&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 
