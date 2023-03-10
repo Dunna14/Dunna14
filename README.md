@@ -5,8 +5,10 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dunna14&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
-![Snake animation](https://github.com/Dunna14/Dunna14/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dunna14&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Braz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunna14&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dunna14&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -14,10 +16,7 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dunna14&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Braz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunna14&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+
 
 
 <div align="center"> 
@@ -38,12 +37,15 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+  ![Snake animation](https://github.com/Dunna14/Dunna14/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dunna14}/count.svg" /></p> 
 <br>
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
